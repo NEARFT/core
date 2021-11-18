@@ -1,2 +1,1 @@
-# core
-Nearkat core
+# NEARKAT NFT
